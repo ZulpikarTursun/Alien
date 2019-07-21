@@ -1,2 +1,5 @@
 # Alien
-Based on python a small game/基于python的一个小游戏
+## Based on python a small game/基于python的一个小游戏
+--- 
+## 参考书本：
+Python Crash Course    Eric Matthes
